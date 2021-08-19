@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "world"
+        "Toyboys - overworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629393106",
+        "cacheTag": "1629393997",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,14 +41,14 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overviewer Render (lighting)",
+            "name": "Toyboys",
             "zoomLevels": 7,
             "defaultZoom": 1,
             "maxZoom": 7,
-            "path": "world-lighting",
+            "path": "toyboys",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "world",
+            "world": "Toyboys - overworld",
             "last_rendertime": 1629386488,
             "imgextension": "png",
             "isOverlay": false,
