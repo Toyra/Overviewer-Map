@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629493230",
+        "cacheTag": "1629497226",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629410444,
+            "last_rendertime": 1629496879,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
