@@ -23,11 +23,12 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Toyboys - overworld"
+        "Toyboys - overworld",
+        "Toyboys - nether"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629536430",
+        "cacheTag": "1629537086",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629502276,
+            "last_rendertime": 1629536778,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,6 +66,29 @@ var overviewerConfig = {
                 78,
                 123
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "Toyboys Nether",
+            "zoomLevels": 6,
+            "defaultZoom": 1,
+            "maxZoom": 6,
+            "path": "toyboysnether",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "Toyboys - nether",
+            "last_rendertime": 1629536959,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -14,
+                78,
+                123
+            ],
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         }
     ]
