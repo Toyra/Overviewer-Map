@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629538792",
+        "cacheTag": "1629539564",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,21 +50,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629538584,
+            "last_rendertime": 1629539482,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -15,
-                76,
-                127
+                -8,
+                144,
+                122
             ],
             "minZoom": 0,
             "spawn": [
-                -15,
-                76,
-                127
+                -8,
+                144,
+                122
             ],
             "north_direction": 0
         },
@@ -83,9 +83,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -15,
-                76,
-                127
+                -8,
+                144,
+                122
             ],
             "minZoom": 0,
             "spawn": false,
