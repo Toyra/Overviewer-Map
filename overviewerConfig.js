@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629556541",
+        "cacheTag": "1629558189",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,21 +50,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629556213,
+            "last_rendertime": 1629557784,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -8,
+                -1225,
                 144,
-                122
+                856
             ],
             "minZoom": 0,
             "spawn": [
-                -8,
+                -1225,
                 144,
-                122
+                856
             ],
             "north_direction": 0
         },
@@ -77,21 +77,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629556213,
+            "last_rendertime": 1629557784,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -8,
+                -1225,
                 144,
-                122
+                856
             ],
             "minZoom": 0,
             "spawn": [
-                -8,
+                -1225,
                 144,
-                122
+                856
             ],
             "north_direction": 0
         },
@@ -110,9 +110,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -8,
+                -1225,
                 144,
-                122
+                856
             ],
             "minZoom": 0,
             "spawn": false,
