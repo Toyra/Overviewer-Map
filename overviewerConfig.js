@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629541624",
+        "cacheTag": "1629542252",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,7 +42,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Toyboys Caves",
+            "name": "Toyboys",
             "zoomLevels": 7,
             "defaultZoom": 1,
             "maxZoom": 7,
@@ -50,7 +50,34 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629541282,
+            "last_rendertime": 1629541882,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -8,
+                144,
+                122
+            ],
+            "minZoom": 0,
+            "spawn": [
+                -8,
+                144,
+                122
+            ],
+            "north_direction": 0
+        },
+        {
+            "name": "Toyboys Caves",
+            "zoomLevels": 7,
+            "defaultZoom": 1,
+            "maxZoom": 7,
+            "path": "toyboyscaves",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "Toyboys - overworld",
+            "last_rendertime": 1629541882,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
