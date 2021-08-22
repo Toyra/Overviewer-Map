@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629628316",
+        "cacheTag": "1629630127",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629627986,
+            "last_rendertime": 1629629786,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629627986,
+            "last_rendertime": 1629629786,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
