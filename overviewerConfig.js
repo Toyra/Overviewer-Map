@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629646314",
+        "cacheTag": "1629648027",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,7 +42,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Toyboys",
+            "name": "Toyboys South",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629645933,
+            "last_rendertime": 1629646233,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -66,7 +66,7 @@ var overviewerConfig = {
                 144,
                 856
             ],
-            "north_direction": 0
+            "north_direction": 2
         },
         {
             "name": "Toyboys Caves",
@@ -77,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - overworld",
-            "last_rendertime": 1629645933,
+            "last_rendertime": 1629646233,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -101,29 +101,6 @@ var overviewerConfig = {
             "defaultZoom": 1,
             "maxZoom": 7,
             "path": "toyboysnether",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "Toyboys - nether",
-            "last_rendertime": 1629640718,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -1225,
-                144,
-                856
-            ],
-            "minZoom": 0,
-            "spawn": false,
-            "north_direction": 0
-        },
-        {
-            "name": "Toyboys Nether Caves",
-            "zoomLevels": 7,
-            "defaultZoom": 1,
-            "maxZoom": 7,
-            "path": "toyboysnethercaves",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Toyboys - nether",
