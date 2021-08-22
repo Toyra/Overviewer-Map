@@ -23,12 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Toyboys - overworld",
-        "Toyboys - nether"
+        "Toyboys - overworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629648027",
+        "cacheTag": "1629655957",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,7 +41,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Toyboys South",
+            "name": "Toyboys",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,
@@ -66,7 +65,7 @@ var overviewerConfig = {
                 144,
                 856
             ],
-            "north_direction": 2
+            "north_direction": 0
         },
         {
             "name": "Toyboys Caves",
@@ -93,29 +92,6 @@ var overviewerConfig = {
                 144,
                 856
             ],
-            "north_direction": 0
-        },
-        {
-            "name": "Toyboys Nether",
-            "zoomLevels": 7,
-            "defaultZoom": 1,
-            "maxZoom": 7,
-            "path": "toyboysnether",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "Toyboys - nether",
-            "last_rendertime": 1629640718,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -1225,
-                144,
-                856
-            ],
-            "minZoom": 0,
-            "spawn": false,
             "north_direction": 0
         }
     ]
